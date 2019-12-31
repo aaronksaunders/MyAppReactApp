@@ -32,7 +32,7 @@ const Home: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Ionic Blank</IonTitle>
+          <IonTitle>Ionic React Starter</IonTitle>
 
           <IonButtons slot="end">
             <IonButton onClick={() => takePicture()}>
